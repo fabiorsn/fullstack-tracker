@@ -4,7 +4,7 @@ Este arquivo reúne os comandos essenciais do Git utilizados no dia a dia de um 
 
 ---
 
-## Configuração Inicial
+## 1. Configuração Inicial (usar uma vez)
 
 ```bash
 git config --global user.name "Seu Nome"
